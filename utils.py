@@ -14,10 +14,10 @@ import streamlit as st  # Added for UI alerts
 PKL_PATH = r"D:\Black-Eyes-Intruders-detection-system-main\Blackeyes\dataset\database.pkl"
 
 # Twilio credentials
-account_sid = 'ACe8d9a268e955157b9dbc87bd404a4d52'
-auth_token = 'f5e563b058b98906de0a2f03e0b2bc47'
-from_number = '+17623412432'
-to_number = '+918610926195'
+account_sid = 'x'
+auth_token = 'x'
+from_number = 'x'
+to_number = 'x'
 
 client = Client(account_sid, auth_token)
 

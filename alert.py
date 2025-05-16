@@ -4,10 +4,10 @@ from twilio.rest import Client
 from datetime import datetime
 
 # Twilio credentials (replace with your real credentials)
-account_sid = 'ACe8d9a268e955157b9dbc87bd404a4d52'
-auth_token = 'f5e563b058b98906de0a2f03e0b2bc47'
-from_number = '+17623412432'  # Your Twilio number
-to_number = '+918610926195'    # Your personal phone number
+account_sid = 'x'
+auth_token = 'x'
+from_number = 'x'  # Your Twilio number
+to_number = 'x'    # Your personal phone number
 
 client = Client(account_sid, auth_token)
 alert_log = {}
