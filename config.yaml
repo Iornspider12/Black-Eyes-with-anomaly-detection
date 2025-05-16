@@ -1,0 +1,11 @@
+
+PATH:
+  DATASET_DIR: 'dataset/'
+  PKL_PATH: 'dataset/database.pkl'
+
+INFO:
+  PICTURE_PROMPT: "Upload a picture for recognition"
+  WEBCAM_PROMPT: "Use your webcam for real-time recognition"
+
+DETECTION:
+  ANOMALY_TOLERANCE: 0.6
